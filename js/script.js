@@ -24,8 +24,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 var typed = new Typed("#typed", {
     stringsElement: '#typed-strings',
-    typeSpeed: 40,
-    backSpeed: 10,
+    typeSpeed: 90,
+    backSpeed: 80,
     loop: true
 });
 // 
