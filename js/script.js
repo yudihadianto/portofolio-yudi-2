@@ -6,7 +6,7 @@ frm.addEventListener("submit", (e) => {
     let name = document.getElementById("name").value;
     let messege = document.getElementById("messege").value;
     var win = window.open(
-      `https://wa.me/+6281286291383?text=Hallo%20Yudi..,%20My%20name%20is%20${name},%20${messege}`,
+      `https://wa.me/+6281286291383?text=Hallo%20Yudi..%20My%20name%20is%20${name},%20${messege}`,
       "_blank"
     );
 });
