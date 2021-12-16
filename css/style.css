@@ -112,6 +112,7 @@ a {
 
 .home .subtitle {
   font-weight: 600;
+  font-size: 17px;
 }
 
 .home .subtitle a {
@@ -249,6 +250,8 @@ a {
 .work .title {
   color: black;
   padding: 5px 0px;
+  font-size: 17px;
+
 }
 
 .work .project:hover .overlay {
